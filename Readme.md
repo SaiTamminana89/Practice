@@ -1,2 +1,1 @@
-# Hello this is open for all developers
-# Developer story A 
+# Hello this is Developer A story
